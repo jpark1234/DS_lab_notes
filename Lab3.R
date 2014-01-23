@@ -1,6 +1,4 @@
 ##aggregate function
-##look at Jared's codes and chapters from the book 
-###date POXIS! look it up as.POXIS(UFO$date)
 
 ### sringsAsFactors=FALSE : include this argument in the readHTMLtable
 ###try rescraping the data with this argument and see if it works 
